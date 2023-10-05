@@ -26,7 +26,7 @@ The original approach to solving this problem (back in October 2021) involved us
 It was relatively simple to set up and generate figures without the need for `pip install pandas` or other Python packages. To tackle this problem using a more challenging approach, we considered doing it the **FORTRAN way**.
 
 # FORTRAN Solution
-The FORTRAN approach ([Get the .f90 file here](https://github.com/asherchok/fortran-multiplicity-calculator/blob/main/multiplicity.f90)) successfully achieved the same `Total Multiplicity` as the original way (a total multiplicity of 5005) with the same input. Below is a pseudocode representation of the actual FORTRAN code.
+The FORTRAN approach (Checkout the .f90 file [here](https://github.com/asherchok/fortran-multiplicity-calculator/blob/main/multiplicity.f90)!) successfully achieved the same `Total Multiplicity` as the original way (a total multiplicity of 5005) with the same input. Below is a pseudocode representation of the actual FORTRAN code.
 <pre>
     <code>
 Program MultiplicityCalculator
