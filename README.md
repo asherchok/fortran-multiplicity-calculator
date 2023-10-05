@@ -83,7 +83,7 @@ Similar code structure was implemented in Python and was able to yield the same 
   <p><em>FORTRAN compiler error message for Problem 2.10</em></p>
 </div>
 
-But the error is likely due to the fact that `50!` is a very large factorial number, and it exceeds the capacity of the integer variable, resulting in a floating-point error message.
+The error is likely due to the fact that `50!` is a very large factorial number, and it exceeds the capacity of the integer variable, resulting in a floating-point error message.
 
 # Fixes?
 If anyone can find a solution to this problem, please feel free to submit a pull request.
