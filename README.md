@@ -71,7 +71,7 @@ End Program MultiplicityCalculator
 This concludes the FORTRAN exercise.
 
 # Problems with the FORTRAN Code
-Similar code structure was implemented in Python and was able to yield the same `Total Multiplicity` for Problem 2.9, validating its functionality. The Python code successfully ran for both Problem 2.9 and Problem 2.10. However, this FORTRAN code failed to achieve the same `Total Multiplicity` for Problem 2.10.
+Similar code structure was implemented in Python and was able to yield the same `Total Multiplicity` for Problem 2.9, validating its functionality. The Python code successfully ran for both Problem 2.9 and Problem 2.10. However, the FORTRAN code failed to achieve the same `Total Multiplicity` for Problem 2.10, particularly when handling larger integer numbers.
 
 <div align="center">
   <img src="https://github.com/asherchok/fortran-multiplicity-calculator/raw/main/figures/problem2-10.JPG" alt="Problem 2.10" style="width:75%;">
